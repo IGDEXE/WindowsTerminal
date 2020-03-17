@@ -8,7 +8,7 @@ Utilizei os schema de cores do thema Dracula e apenas personalizei ao meu gosto.
 >
 Você pode utilizar qualquer outra imagem, inclusive gifs, ligar ou desligar o efeito acrilico, ajustar opacidade de forma simples, tudo neste código.
 
-Por padrão, deixei o tema em **default** para ser aplicado a todos os terminais que utilizo. Mas você pode personalizar um por um em suas propriedades, tendo assim variedades.
+Por padrão, deixei o tema em **default** para ser aplicado a todos os terminais que utilizo. Mas você pode personalizar um por um em suas propriedades, tendo assim variedades
 
 ![demo image](demo.png)
 
